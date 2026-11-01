@@ -11,3 +11,40 @@ bak
 doc
 imgs
 vids
+
+# ModelSim & EDA Simulation
+transcript
+work/
+libraries/
+*.wlf
+modelsim.ini
+*.bmp
+
+# Quartus & Qsys Build Outputs
+db/
+incremental_db/
+output_files/
+.qsys_edit/
+simulation/
+*.rpt
+*.csv
+*.html
+*.bsf
+*.cmp
+*.spd
+*.summary
+*.done
+*.smsg
+*.qws
+
+# Eclipse & Nios II Software Build
+.metadata/
+obj/
+mem_init/
+*.elf
+*.map
+*.objdump
+*.stackdump
+*.a
+HostSystem/
+software/
